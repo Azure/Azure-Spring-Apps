@@ -12,6 +12,10 @@ Azure Spring Cloud is a PaaS to help you easily run and operate Spring Cloud bas
 
 You can find more details about Azure Spring Cloud in the [official documentation](https://docs.microsoft.com/en-us/azure/spring-cloud/).
 
+> NOTE:
+> Azure Spring Cloud is in Preview. You need to file a request at https://aka.ms/spring-cloud to access the service.
+> The request will be reviewed and accepted on a case-by-case basis.
+
 This repository is intended to track issues of Azure Spring Cloud. Issues are actively monitored by the Azure Spring Cloud product team, and support is provided on a **best-effort basis** for issues that are reproducible outside of a specific service instance.
 
 ## Bug Report
