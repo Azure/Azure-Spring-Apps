@@ -26,3 +26,8 @@ A clear description about the Impact to the customer.
 **Additional context**
 
 Add any other context or screenshots about the feature request here.
+
+
+**Can we contact you for additional details?** Y/N
+
+If yes, please send us your contact information to AzureSpringCloud-Talk@service.microsoft.com and include the issue number in the email title.
