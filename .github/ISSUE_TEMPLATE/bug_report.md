@@ -25,3 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+
+**Can we contact you for additional details?** Y/N
+If yes, please send us your contact information to AzureSpringCloud-Talk@service.microsoft.com and include the issue number in the email title.
